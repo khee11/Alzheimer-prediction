@@ -21,6 +21,9 @@ ADNI Data download
 * Using this pdf file : 'IDA_User_Manual.pdf'
 * Download 
 
+![image](https://user-images.githubusercontent.com/87646049/167494625-3654c11a-d55f-4632-a0fa-36d5e545cae9.png)
+
+
 << 2022.05.10 >>
 
 ADNI Data download
