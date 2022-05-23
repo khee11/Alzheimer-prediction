@@ -28,3 +28,22 @@ ADNI Data download
 ADNI Data download
 
 * Using this pdf file : 'IDA_User_Manual.pdf'
+
+
+<< 2022.05.11 >>
+* url을 이용하여 서버에서 직접 MR Image Data download 시도  -> IP 문제 발생 (download url을 생성한 IP와 download를 받으려는 IP (서버)가 다른 문제)
+
+<< 2022.05.16 >> 
+위에서 발생한 IP문제 문의
+
+<< 2022.05.17 >> 
+* 서버에 Firefox를 설치하여, 원격으로 서버에 접속하여 Firefox를 통해 GUI형식으로 IDA 웹 사이트에 접속, MR Image data download 시도  -> 다운로드가 중단되는 문제 발생
+
+<< 2022.05.18 >>
+* 서버 원격 접속이 불안정한 문제 발생  -> 데이터를 (본인) 컴퓨터에서 직접 다운로드 하는 방법 선택
+* Target 논문에서 사용하는 data가 MR Image data가 아닌 FreeSurfer을 통해 추출된 data인 [UCSF]임을 확인
+
+<< 2022.05.19 >>
+* UCSF data Manual 
+
+<< 2022
