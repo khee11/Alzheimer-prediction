@@ -44,6 +44,12 @@ ADNI Data download
 * Target 논문에서 사용하는 data가 MR Image data가 아닌 FreeSurfer을 통해 추출된 data인 [UCSF]임을 확인
 
 << 2022.05.19 >>
-* UCSF data Manual 
+* UCSF data Manual 살펴보기
 
-<< 2022
+<< 2022.05.21 >>
+* 'ADNIMERGE packages for R' install 및 사용
+
+<< 2022.05.23 >>
+* Baseline data 
+
+
