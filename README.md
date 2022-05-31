@@ -50,6 +50,7 @@ ADNI Data download
 * 'ADNIMERGE packages for R' install 및 사용
 
 << 2022.05.23 >>
-* Baseline data 
+* Baseline data Dictionary 및 Method 조사
 
-
+<< 2022.05.24 ~ 2022.05.30 >>
+Baseline data download & merge (key = RID : Patient ID 뒤에 4자리; ex. Patient ID가 '011_S_0023'이라면, RID는 '23' )
